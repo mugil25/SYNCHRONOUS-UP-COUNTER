@@ -1,4 +1,4 @@
-### SYNCHRONOUS-UP-COUNTER
+# SYNCHRONOUS-UP-COUNTER
 
 **AIM:**
 
@@ -39,8 +39,8 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 5.Repeat steps 2-4 for each bit you want to input and shift.
 
 **PROGRAM**
-#### Developed by: MUGIL M.
-#### Register number: 212223230127
+### Developed by: MUGIL M.
+### Register number: 212223230127
 
 ```
 module ex11(out,clk,rstn);
